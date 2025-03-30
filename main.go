@@ -8,10 +8,6 @@ import (
 	"github.com/gin-gonic/gin"
 )
 
-func startServer() {
-
-}
-
 func main() {
 
 	port := 8080
